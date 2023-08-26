@@ -1,4 +1,4 @@
-# Employee attrition ~ a prescriptive modelling
+# Employee attrition ~ prescriptive modelling
 ![resignation](https://github.com/franciskyalo/employee_attrition/assets/94622826/df77e401-b01b-4804-a25c-bec5246dfae4)
 
 ### Overview 
@@ -36,4 +36,4 @@ Modelling will involve two distinct steps:
 - The model indicates that employees working overtime have a higher likelihood of quitting. This could **suggest burnout or work-life balance issues**. Evaluate the **necessity of overtime work, streamline processes, and implement strategies to ensure employees are not consistently overburdened**. Promote a healthy work-life balance to prevent burnout and maintain job satisfaction.
 
 - The result highlighting **"MaritalStatus_Single" as a factor suggests that single employees might be more prone to attrition**. Consider offering additional support to single employees, such as **mentorship programs, social activities, or wellness initiatives**. Encouraging a sense of belonging and community can make a positive impact on their job satisfaction and commitment.
-- 
+
