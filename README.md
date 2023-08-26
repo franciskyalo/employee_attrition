@@ -1,9 +1,6 @@
 # Employee attrition ~ prescriptive modelling
 ![resignation](https://github.com/franciskyalo/employee_attrition/assets/94622826/df77e401-b01b-4804-a25c-bec5246dfae4)
 
-![WIN_20230624_20_07_47_Pro](https://github.com/franciskyalo/employee_attrition/assets/94622826/42626f35-510d-48c9-8517-3550d39ff1a0)
-
-
 ### Overview 
 
 Employee attrition is a critical concern in today's business landscape, with significant implications for organizations worldwide. High attrition rates result in increased costs, reduced productivity, and diminished morale. To address this issue, you must understand the underlying factors driving attrition and develop effective retention strategies. This capstone project focuses on analyzing the Employee Attrition dataset for a tech company, which provides comprehensive information on employee demographics, job roles, satisfaction levels, compensation, and work-life balance.
