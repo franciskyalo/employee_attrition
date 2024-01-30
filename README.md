@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-blue?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation-lightblue?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine_Learning-lightblueblue?logo=scikit-learn&logoColor=orange) ![Seaborn](https://img.shields.io/badge/Seaborn-Data_Visualization-yellow?) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-blue?)
+
+
 # Employee attrition ~ prescriptive modelling
 ![resignation](https://github.com/franciskyalo/employee_attrition/assets/94622826/df77e401-b01b-4804-a25c-bec5246dfae4)
 
