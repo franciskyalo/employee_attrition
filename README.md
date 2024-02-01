@@ -1,28 +1,28 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-blue?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation-lightblue?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine_Learning-lightblueblue?logo=scikit-learn&logoColor=orange) ![Seaborn](https://img.shields.io/badge/Seaborn-Data_Visualization-yellow?) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-blue?)
 
 
-# Employee attrition ~ prescriptive modelling
+# Employee attrition ~ prescriptive modelling💉
 ![resignation](https://github.com/franciskyalo/employee_attrition/assets/94622826/df77e401-b01b-4804-a25c-bec5246dfae4)
 
-### Overview 
+### Overview🔎 
 
 Employee attrition is a critical concern in today's business landscape, with significant implications for organizations worldwide. High attrition rates result in increased costs, reduced productivity, and diminished morale. To address this issue, you must understand the underlying factors driving attrition and develop effective retention strategies. This capstone project focuses on analyzing the Employee Attrition dataset for a tech company, which provides comprehensive information on employee demographics, job roles, satisfaction levels, compensation, and work-life balance.
 
-### Business understanding
+### Business understanding📌
 
 Recruiting, hiring, and training new employees entail substantial costs, compounded by the loss of institutional knowledge. Attrition also disrupts productivity and hampers organizational growth, affecting economic performance at micro and macro levels. By exploring the factors contributing to attrition and developing effective retention strategies, this project contributes to the formulation of robust economic and fiscal policies that foster stability, productivity, and sustainable growth within the business sector.
 
-#### Main objective 
+#### Main objective📌 
 
 The main objective of the project is to come up with a **prescriptive model** that would be able to identify which factors contribute the most to an employee attritioning giving Human resources department the chance to intervene and also improve on some of the policies to ensure that employees are happy.
 
 
-### Data understanding 
+### Data understanding📊 
 
 Data had 1470 records and 35 columns containing different information on an employee such as their age, marital status, education level, job satisfaction etc.
 
 
-### Modelling 
+### Modelling👨🏿‍💻 
 
 Modelling will involve two distinct steps:
 
@@ -30,7 +30,7 @@ Modelling will involve two distinct steps:
 
 - creating a logistic regression model using `scikit-learn` for deployment into a production enviroment. Tuning will also be done to ensure the best parameters for the model are used to guarantee good accuracy
 
-### Recommendations 
+### Recommendations💵 
 
 - Departments like "Research & Development" and "Sales" appear to have higher attrition rates. It's important to delve into the **specific work conditions, growth opportunities, and job satisfaction levels** within these departments. Address any issues that might be leading to dissatisfaction and explore ways to enhance employee engagement and career growth.
 
